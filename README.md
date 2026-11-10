@@ -1,6 +1,6 @@
 # What-s-Going-On-app-
 What's Going On app? – Secure Anonymous Messaging Backend  # Overview What's Going On app? is a secure, production‑ready backend for an anonymous messaging platform (inspired by the classic “What's Going On?” concept).
-SarahaApplication – Secure Anonymous Messaging Backend
+What's Going On? – Secure Anonymous Messaging Backend
 
 - JWT‑based authentication with short‑lived access tokens (15 min) and long‑lived refresh tokens (configurable TTL, default 7 days).
 - Refresh‑token rotation and reuse detection with SHA‑256 hash storage in Redis.
@@ -22,8 +22,8 @@ The codebase follows modern JavaScript (ESM) standards, uses clean architecture,
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/your-username/SarahaApplication.git
-cd SarahaApplication
+git clone https://github.com/Osamajabr176-ai/What-s-Going-On-app
+cd WhatsGoingOnapp
 
 # Install dependencies
 npm ci
